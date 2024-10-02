@@ -13,4 +13,4 @@ the program will return an empty string.
 
 Running the program:
  - mvn clean install
- - java -jar target/Swagger-1.0-SNAPSHOT.jar
+ - java -jar target/MaxValueController-1.0-SNAPSHOT.jar
